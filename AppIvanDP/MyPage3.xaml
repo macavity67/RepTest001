@@ -3,5 +3,7 @@
              x:Class="AppIvanDP.MyPage3"
              Title="Terza pagina">
     <ContentPage.Content>
+
+        <Label Text="pippo pluto paperino..."/>
     </ContentPage.Content>
 </ContentPage>
