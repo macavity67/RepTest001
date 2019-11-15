@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{57ABA250-A599-473C-A899-0E159FBFA056}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppIvanDP/MyPage3.xaml">
+    <Files>
+      <File FileName="AppIvanDP/MainPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="AppIvanDP/MainPage.xaml" Line="21" Column="1" />
+      <File FileName="AppIvanDP/App.xaml.cs" Line="13" Column="12" />
+      <File FileName="AppIvanDP/MyPage.xaml" Line="5" Column="14" />
+      <File FileName="AppIvanDP/MyPage.xaml.cs" Line="19" Column="45" />
+      <File FileName="AppIvanDP/MyPage3.xaml" Line="4" Column="26" />
+      <File FileName="AppIvanDP/MyPage3.xaml.cs" Line="1" Column="1" />
+      <File FileName="AppIvanDP/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppIvanDP" expanded="True">
+            <Node name="AppIvanDP" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MyPage.xaml" expanded="True" />
+              <Node name="MyPage3.xaml" expanded="True" />
+            </Node>
+            <Node name="AppIvanDP.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AppIvanDP.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AppIvanDP.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0206B3AE-BC38-40C1-9A5C-E5BCFBB5D799" />
+</Properties>

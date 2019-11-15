@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+             x:Class="AppIvanDP.MainPage"
+             Title="Pagina Principale">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Benvenuti nella mia app!"
+               FontSize="Title"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+        <Image HeightRequest="100"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               Source="https://mobile-cdn.123rf.com/300wm/topvectors/topvectors1712/topvectors171200496/91379228-pagliaccio-divertente-del-circo-nel-trucco-tradizionale-che-mostra-le-sue-mani-pagliaccio-amichevole.jpg?ver=6"></Image>
+        <Button
+            Clicked="mioClick"
+            BackgroundColor="SandyBrown"
+            HorizontalOptions="Center"
+            Text="OK"></Button>
+        <Label x:Name="miaLabel"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">AAA</Label>
+        <Label Text="Applicazione per il tempo libero!"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+</ContentPage>

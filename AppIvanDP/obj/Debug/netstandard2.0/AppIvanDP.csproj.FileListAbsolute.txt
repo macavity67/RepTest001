@@ -1,0 +1,15 @@
+/Users/corso/Projects/AppIvanDP/AppIvanDP/bin/Debug/netstandard2.0/AppIvanDP.deps.json
+/Users/corso/Projects/AppIvanDP/AppIvanDP/bin/Debug/netstandard2.0/AppIvanDP.dll
+/Users/corso/Projects/AppIvanDP/AppIvanDP/bin/Debug/netstandard2.0/ref/AppIvanDP.dll
+/Users/corso/Projects/AppIvanDP/AppIvanDP/bin/Debug/netstandard2.0/AppIvanDP.pdb
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/AppIvanDP.csprojAssemblyReference.cache
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/AppIvanDP.AssemblyInfoInputs.cache
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/AppIvanDP.AssemblyInfo.cs
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/AppIvanDP.dll
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/ref/AppIvanDP.dll
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/AppIvanDP.pdb
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/MyPage.xaml.g.cs
+/Users/corso/Projects/AppIvanDP/AppIvanDP/obj/Debug/netstandard2.0/MyPage3.xaml.g.cs
