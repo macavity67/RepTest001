@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+
 using Foundation;
 using UIKit;
 
@@ -24,6 +28,9 @@ namespace AppIvanDP.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
+
+            AppCenter.Start("ios=a40fa7da-2b25-4353-a3ba-4e765b5d7e98",
+                  typeof(Analytics), typeof(Crashes));
 
             return base.FinishedLaunching(app, options);
         }
